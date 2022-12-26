@@ -46,6 +46,10 @@ body
 }
 #Button1
 {
+   box-sizing: border-box;
+   line-height: 21px;
+   text-decoration: none;
+   vertical-align: top;
    border: 1px solid #2E6DA4;
    border-radius: 4px;
    background-color: #2E8B57;
