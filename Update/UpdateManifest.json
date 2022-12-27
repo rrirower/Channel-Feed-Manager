@@ -1,13 +1,12 @@
 {
     "Version" : "1.0.0.1",
-    "Message" : ""
-    "New" :
+    "NewUpdates" :
     [
         {
-            "Update1" : "Ths is the first update."
+            "Update" : "Ths is the first update."
         },
         {
-            "Update2" : "This is the second update."
+            "Update" : "This is the second update."
         }
     ]
 }
