@@ -28,7 +28,7 @@ Please download the setup file from the latest release.
 # License
 Please read the license before using the software.
 
-[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/json-feed-manager/blob/master/LICENSE.md)
+[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/channel-feed-manager/blob/master/LICENSE.md)
 
 # Author
 Michael Harnad
