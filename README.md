@@ -6,7 +6,7 @@ The Channel Feed Manager is a software suite of tools that assist in creating an
 
 NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any way.
 
-# Prequisites
+# Prerequisites
 
 Your system must meet the following minimum requirements to use the Channel Feed Manager.
 
