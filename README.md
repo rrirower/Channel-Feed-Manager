@@ -25,6 +25,14 @@ Please download the setup file from the latest release.
 
 [![Github All Releases](https://img.shields.io/github/downloads/rrirower/Channel-Feed-Manager/total.svg)](https://github.com/rrirower/Channel-Feed-Manager/releases/latest)
 
+# Support
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Software support is available by submitting an "issue".  Please attach any files that may help demonstrate the "issue".
+
+**Please follow this repo if you'd like notification of version updates.**
+
+[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/Channel-Feed-Manager/issues/new)
 # License
 Please read the license before using the software.
 
