@@ -19,7 +19,7 @@ Your system must meet the following minimum requirements to use the Channel Feed
 
 # Installation
 
-Please download the setup file from the latest release.
+Please download the installer file from the latest release.
 
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/Channel-Feed-Manager/releases/latest)
 
