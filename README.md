@@ -12,7 +12,7 @@ Your system must meet the following minimum requirements to use the Channel Feed
 
 * 64-bit Windows 10 or higher.
 * .Net 7 framework.
-* 47 MB Hard disk space.
+* 318 MB Hard disk space.
 * Roku MRSS files must use the file extension ".xml"
 * Roku JSON files must use the file extension ".json"
 * Amazon Creator files must use the file extension ".mrss"
