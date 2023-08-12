@@ -2,7 +2,7 @@
 
 # Channel Feed Manager
 
-The Channel Feed Manager is a software suite of tools that assist in creating and managing feed files for Roku Direct Publisher and Amazon Creator.  Using these tools will allow you to spend less time worrying about the syntactical correctness of your feed file and more time developing your video content.
+The Channel Feed Manager is a software suite of tools that assist in creating and managing feed files for Roku and Amazon Creator.  Using these tools will allow you to spend less time worrying about the syntactical correctness of your feed file and more time developing your video content.
 
 NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any way.
 
