@@ -7,6 +7,9 @@ assignees: rrirower
 
 ---
 
+**What tool are you using?**
+Channel Feed Manager, FeedMerge, or, TrickPlayMaker
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
