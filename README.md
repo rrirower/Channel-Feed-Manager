@@ -6,6 +6,18 @@ The Channel Feed Manager is a software suite of tools that assist in creating an
 
 NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any way.
 
+# Features
+
+* Manage Roku Json and Xml feed files.
+* Manage Amazon Creator feed files.
+* Includes FeedMerge tool to merge one or more Json feed files.
+* Includes TrickplayMaker to generate BIF files.
+* Generates Search feeds for your feed file.
+* Supports all Roku feed content types.
+* Import/Export to other feed types.
+* Feed file validation.
+
+  
 # Prerequisites
 
 Your system must meet the following minimum requirements to use the Channel Feed Manager.
