@@ -23,7 +23,7 @@ NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any 
 Your system must meet the following minimum requirements to use the Channel Feed Manager.
 
 * 64-bit Windows 10 or higher.
-* .Net 7 framework.
+* .Net 9 framework.
 * 318 MB Hard disk space.
 * Roku MRSS files must use the file extension ".xml"
 * Roku JSON files must use the file extension ".json"
