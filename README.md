@@ -14,6 +14,7 @@ NOTE: This software is not endorsed by or affiliated with Roku or Amazon in any 
 * Includes TrickplayMaker to generate BIF files.
 * Generates Search feeds for your feed file.
 * Supports all Roku feed content types.
+* Supports Audio only content (.mp3).
 * Import/Export to other feed types.
 * Feed file validation.
 
