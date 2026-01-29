@@ -43,6 +43,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Software support is available by submitting an "issue".  Please attach any files that may help demonstrate the "issue".
 
+Please do not expect a quick resolution to an issue if you are unwilling to provide information to the developer.
+
 **Please follow this repo if you'd like notification of version updates.**
 
 [![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/Channel-Feed-Manager/issues/new)
